@@ -3,6 +3,3 @@ Hi, this is a sample file
 add context before reset
 
 add more context before reset
-
-
-add change before revert
