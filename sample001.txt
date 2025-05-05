@@ -3,5 +3,3 @@ Hi, this is a sample file
 add context before reset
 
 add more context before reset
-
-before revert add text
